@@ -1,0 +1,19 @@
+db-server database was not found.
+Comparing files
+===============
+Expected file: /tso-e2e/data/expected/smoke_test/create_basic_timekeepers_test/create_basic_timekeepers_values_01.txt
+Actual file: /tso-e2e/test-results/tests-smoke-test-py-create-basic-timekeepers-test-chromium/create_basic_timekeepers_values_01.txt
+File comparison - passed: 
+=========================
+Expected results: /tso-e2e/data/expected/smoke_test/create_basic_timekeepers_test/create_basic_timekeepers_values_01.txt
+Actual results: /tso-e2e/test-results/tests-smoke-test-py-create-basic-timekeepers-test-chromium/create_basic_timekeepers_values_01.txt
+Comparing files
+===============
+Expected file: /tso-e2e/data/expected/smoke_test/create_basic_timekeepers_test/create_basic_timekeepers_actual_values_02.txt
+Actual file: /tso-e2e/test-results/tests-smoke-test-py-create-basic-timekeepers-test-chromium/create_basic_timekeepers_actual_values_02.txt
+File comparison - passed: 
+=========================
+Expected results: /tso-e2e/data/expected/smoke_test/create_basic_timekeepers_test/create_basic_timekeepers_actual_values_02.txt
+Actual results: /tso-e2e/test-results/tests-smoke-test-py-create-basic-timekeepers-test-chromium/create_basic_timekeepers_actual_values_02.txt
+No trace was captured.
+The base URL for the web app is: http://ts-client/
